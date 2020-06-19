@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 4675435634f147d42a20d2053609b71f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1482830708894371458
+    second: AF gui_0
+  - first:
+      213: -2406224212805211080
+    second: AF gui_1
+  - first:
+      213: 549667135041868528
+    second: AF gui_2
+  - first:
+      213: -3537552433362930329
+    second: AF gui_3
+  - first:
+      213: -249673694504695868
+    second: AF gui_4
+  - first:
+      213: -4500793182176902323
+    second: AF gui_5
+  - first:
+      213: 2246103244306326849
+    second: AF gui_6
+  - first:
+      213: 6384786272413292554
+    second: AF gui_7
+  - first:
+      213: -4705798305967900955
+    second: AF gui_8
+  - first:
+      213: 4517181733939063634
+    second: AF gui_9
+  - first:
+      213: 2300377070000051693
+    second: AF gui_10
+  - first:
+      213: 4375045204747331177
+    second: AF gui_11
+  - first:
+      213: -7384450466446764713
+    second: AF gui_12
+  - first:
+      213: 1704759859554951
+    second: AF gui_13
+  - first:
+      213: -2796363010085855632
+    second: AF gui_14
+  - first:
+      213: -2734765343662774213
+    second: AF gui_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AF gui_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1867
+        width: 1037
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dfcc2a5aab1dc4c84115aff41b2a43
+      internalID: 1482830708894371458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_1
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1898
+        width: 1037
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d089fedd0301034b88de048ae063e4e
+      internalID: -2406224212805211080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_2
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 2446
+        width: 101
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f406b896cc43f941b0796fc6ad9823c
+      internalID: 549667135041868528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_3
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2310
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b29d050619ecc42af05e3ab519800b
+      internalID: -3537552433362930329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_4
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2155
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8201b0f2504243910d6ac8c666d42
+      internalID: -249673694504695868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_5
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1867
+        width: 219
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c0aec819db883448fbdd71fbff92c8
+      internalID: -4500793182176902323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_6
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1867
+        width: 219
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c43951b828229469489858e9ba0900
+      internalID: 2246103244306326849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1105
+        width: 1075
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d6d9507b0b5de459e0a28de788f503
+      internalID: 6384786272413292554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_8
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1271
+        width: 1072
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a7ce29a9211a4098ca10071fa27e0
+      internalID: -4705798305967900955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_9
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1146
+        width: 364
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5923b34fe81680459ae34310e8de07c
+      internalID: 4517181733939063634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_10
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1105
+        width: 396
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51111aae78db4d643a1145c4494a1a6e
+      internalID: 2300377070000051693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_11
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 1137
+        width: 391
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db40db1531916b4ea226bc2405b06d2
+      internalID: 4375045204747331177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90
+        width: 1227
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c5a8621c77354ba77cba0e34b5428
+      internalID: -7384450466446764713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_13
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 227
+        width: 1226
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d73607e64e9fc47a67ed6bfec371db
+      internalID: 1704759859554951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_14
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 100
+        width: 363
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca74d400a2c094bb40326df2d6f60f
+      internalID: -2796363010085855632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF gui_15
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 90
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b4e255c975f7449b6a46c556680f7c
+      internalID: -2734765343662774213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

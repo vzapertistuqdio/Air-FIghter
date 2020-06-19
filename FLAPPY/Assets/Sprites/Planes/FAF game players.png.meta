@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 771e092e96072f94285ddd79adc5e430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6202868662764100014
+    second: FAF game players_0
+  - first:
+      213: -5819202002096482070
+    second: FAF game players_1
+  - first:
+      213: -8107058767095650962
+    second: FAF game players_2
+  - first:
+      213: 2563464899959212896
+    second: FAF game players_3
+  - first:
+      213: 4946505662502927149
+    second: FAF game players_4
+  - first:
+      213: -8781024801091396557
+    second: FAF game players_5
+  - first:
+      213: -5587595360267937066
+    second: FAF game players_6
+  - first:
+      213: 3215780712779032563
+    second: FAF game players_7
+  - first:
+      213: 3809471554397088771
+    second: FAF game players_8
+  - first:
+      213: -172731193802092846
+    second: FAF game players_9
+  - first:
+      213: 6360020831188320460
+    second: FAF game players_10
+  - first:
+      213: -2577055086066173631
+    second: FAF game players_11
+  - first:
+      213: -7940029897586572996
+    second: FAF game players_12
+  - first:
+      213: -7576996602820564435
+    second: FAF game players_13
+  - first:
+      213: -166896354394793533
+    second: FAF game players_14
+  - first:
+      213: 1632985702659701406
+    second: FAF game players_15
+  - first:
+      213: -5980949056295208399
+    second: FAF game players_16
+  - first:
+      213: 744326340113557896
+    second: FAF game players_17
+  - first:
+      213: -6880715650758086285
+    second: FAF game players_18
+  - first:
+      213: -854030552768640705
+    second: FAF game players_19
+  - first:
+      213: 2029319911800351092
+    second: FAF game players_20
+  - first:
+      213: -415970084908045707
+    second: FAF game players_21
+  - first:
+      213: -7985467704422292441
+    second: FAF game players_22
+  - first:
+      213: -5483548439312963884
+    second: FAF game players_23
+  - first:
+      213: 7876771656115650835
+    second: FAF game players_24
+  - first:
+      213: 8604954236592401626
+    second: FAF game players_25
+  - first:
+      213: -1692733433500907174
+    second: FAF game players_26
+  - first:
+      213: 863432544634707482
+    second: FAF game players_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FAF game players_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 770
+        width: 785
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87970a8387208241985c36235ac12a3
+      internalID: 6202868662764100014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_1
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1071
+        width: 189
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3afbd463a3d4c4e8dd7b7e25f1937c
+      internalID: -5819202002096482070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_2
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 961
+        width: 256
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7144e1796cfa8d48b33c233cc0f4d6a
+      internalID: -8107058767095650962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_3
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 914
+        width: 38
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6f39f4ee1bf54a8f1b98af9f2c0e5
+      internalID: 2563464899959212896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_4
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1059
+        width: 172
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6411d37abec3c4b43baafda6a8ae5386
+      internalID: 4946505662502927149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_5
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 793
+        width: 642
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8303d2190807584fa86ecbf399c57a9
+      internalID: -8781024801091396557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_6
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 1061
+        width: 252
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab75629b2ae4b4b8ff1119ab5bcb64
+      internalID: -5587595360267937066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_7
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 1060
+        width: 176
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8478fac2368e4dbbc5e6c85fee97a
+      internalID: 3215780712779032563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_8
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1100
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe532471ad0fc47b8330d441ee540e
+      internalID: 3809471554397088771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_9
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1133
+        width: 131
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf600b37b363547b47da2b316ca45d
+      internalID: -172731193802092846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_10
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 825
+        width: 384
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a675f94032b43b04e913ae3d31c75199
+      internalID: 6360020831188320460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_11
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 770
+        width: 228
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c88efa328db9c847ac7a23d8103386b
+      internalID: -2577055086066173631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_12
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 745
+        width: 251
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d74f8f0f4ab8f14884a75978b8afda8
+      internalID: -7940029897586572996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_13
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 745
+        width: 177
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a38a8803ed75c4f882fed5f43547ca
+      internalID: -7576996602820564435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_14
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 784
+        width: 192
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52591041328310b43bc3f5de4937085c
+      internalID: -166896354394793533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_15
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 825
+        width: 156
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc28a98ecd1107458284fd828c4ee5d
+      internalID: 1632985702659701406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_16
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 430
+        width: 250
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1bf1aa471b23943aeba7437844fe44
+      internalID: -5980949056295208399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_17
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 430
+        width: 177
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd84044270d304db8ef505f727e6c1
+      internalID: 744326340113557896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_18
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 471
+        width: 192
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd152cd0eea0b9438144285266687c9
+      internalID: -6880715650758086285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_19
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 510
+        width: 156
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58dda53e32bcd4fbb033bf824ca09b
+      internalID: -854030552768640705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 804
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd558f621660be40bc112566744983d
+      internalID: 2029319911800351092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_21
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 321
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea7b55a51ebb9438df0cff3b293faf
+      internalID: -415970084908045707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_22
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 241
+        width: 242
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6b326dcd5b4bc45891cb158ef8bbb0
+      internalID: -7985467704422292441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_23
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 69
+        width: 733
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692722b205833bc4c8c15a341b192de9
+      internalID: -5483548439312963884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_24
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 17
+        width: 45
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c12ba8a5f95ab4d8a42c238e37b9b4
+      internalID: 7876771656115650835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_25
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 161
+        width: 199
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f0dd808d1f734080f9d31936f2260
+      internalID: 8604954236592401626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_26
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 134
+        width: 379
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a153faef86e947a2d54f185db382b
+      internalID: -1692733433500907174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FAF game players_27
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 44
+        width: 305
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d381da5f3125b4092c6583ef76cbee
+      internalID: 863432544634707482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

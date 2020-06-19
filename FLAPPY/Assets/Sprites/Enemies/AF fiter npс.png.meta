@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 80d62877e4716474dbbc1442b46aed13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5345426090381648615
+    second: "AF fiter np\u0441_0"
+  - first:
+      213: 309034004555244937
+    second: "AF fiter np\u0441_1"
+  - first:
+      213: 2494892644490925856
+    second: "AF fiter np\u0441_2"
+  - first:
+      213: -5417399667611966936
+    second: "AF fiter np\u0441_3"
+  - first:
+      213: 8797015931672448031
+    second: "AF fiter np\u0441_4"
+  - first:
+      213: 527215089731591915
+    second: "AF fiter np\u0441_5"
+  - first:
+      213: -6620991929324770470
+    second: "AF fiter np\u0441_6"
+  - first:
+      213: -3200812893427929408
+    second: "AF fiter np\u0441_7"
+  - first:
+      213: -5540875162030612792
+    second: "AF fiter np\u0441_8"
+  - first:
+      213: -7593933847707670969
+    second: "AF fiter np\u0441_9"
+  - first:
+      213: 105580066801513935
+    second: "AF fiter np\u0441_10"
+  - first:
+      213: 2077601570427253625
+    second: "AF fiter np\u0441_11"
+  - first:
+      213: 2270757895436882337
+    second: "AF fiter np\u0441_12"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 750
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_0"
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 6511
+        width: 230
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d52b5ca4b31d5b0800000000000000
+      internalID: -5345426090381648615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_1"
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 6339
+        width: 1671
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98528013ac8e94400800000000000000
+      internalID: 309034004555244937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_2"
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 4959
+        width: 866
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027dd9344a3af9220800000000000000
+      internalID: 2494892644490925856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_3"
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 4849
+        width: 1635
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8226ba574b781d4b0800000000000000
+      internalID: -5417399667611966936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_4"
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 3598
+        width: 463
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc9ca9167451a70800000000000000
+      internalID: 8797015931672448031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_5"
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 3363
+        width: 2086
+        height: 1125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5dafa45b015700800000000000000
+      internalID: 527215089731591915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_6"
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3433
+        width: 463
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6ed77be28d14a0800000000000000
+      internalID: -6620991929324770470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_7"
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 3268
+        width: 462
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceecbec1ad6493d0800000000000000
+      internalID: -3200812893427929408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_8"
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2076
+        width: 868
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce516e956bda13b0800000000000000
+      internalID: -5540875162030612792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_9"
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2076
+        width: 867
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a19f566dec9690800000000000000
+      internalID: -7593933847707670969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_10"
+      rect:
+        serializedVersion: 2
+        x: 4920
+        y: 1982
+        width: 2294
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f019e288177100800000000000000
+      internalID: 105580066801513935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_11"
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 637
+        width: 2713
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733c16ee9f15dc10800000000000000
+      internalID: 2077601570427253625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF fiter np\u0441_12"
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 567
+        width: 2890
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1dd60664a538f10800000000000000
+      internalID: 2270757895436882337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

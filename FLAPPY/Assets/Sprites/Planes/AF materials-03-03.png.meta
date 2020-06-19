@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 82140f75f4c650c44b269fe90ff99a36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1890511327949261281
+    second: AF materials-03-03_0
+  - first:
+      213: 5710803285329544583
+    second: AF materials-03-03_1
+  - first:
+      213: 3017462407053074020
+    second: AF materials-03-03_2
+  - first:
+      213: 8384834121818431959
+    second: AF materials-03-03_3
+  - first:
+      213: 8942325750233836305
+    second: AF materials-03-03_4
+  - first:
+      213: 6326287765380254018
+    second: AF materials-03-03_5
+  - first:
+      213: -8809406444507704674
+    second: AF materials-03-03_6
+  - first:
+      213: -2470871181843207334
+    second: AF materials-03-03_7
+  - first:
+      213: -1263340269474393767
+    second: AF materials-03-03_8
+  - first:
+      213: 3266060725737904320
+    second: AF materials-03-03_9
+  - first:
+      213: 7771237941185190226
+    second: AF materials-03-03_10
+  - first:
+      213: 8447972228142319952
+    second: AF materials-03-03_11
+  - first:
+      213: 3740314281255250562
+    second: AF materials-03-03_12
+  - first:
+      213: 1178107545888492600
+    second: AF materials-03-03_13
+  - first:
+      213: 7960529277169212625
+    second: AF materials-03-03_14
+  - first:
+      213: 7334963645549408581
+    second: AF materials-03-03_15
+  - first:
+      213: 6472709643084931708
+    second: AF materials-03-03_16
+  - first:
+      213: -3956302992231242182
+    second: AF materials-03-03_17
+  - first:
+      213: -3831978823272865642
+    second: AF materials-03-03_18
+  - first:
+      213: 8906611765890723269
+    second: AF materials-03-03_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AF materials-03-03_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3263
+        width: 515
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f167bbda6fd83c5e0800000000000000
+      internalID: -1890511327949261281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_1
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 3263
+        width: 362
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7858334b459d04f40800000000000000
+      internalID: 5710803285329544583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_2
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 3344
+        width: 394
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e5e7f621e20e920800000000000000
+      internalID: 3017462407053074020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_3
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 3416
+        width: 268
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ef83853aec5470800000000000000
+      internalID: 8384834121818431959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2626
+        width: 515
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b248034e5891c70800000000000000
+      internalID: 8942325750233836305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_5
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2626
+        width: 362
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c36a543d7bc750800000000000000
+      internalID: 6326287765380254018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_6
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2709
+        width: 394
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d4115383beb580800000000000000
+      internalID: -8809406444507704674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_7
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2790
+        width: 320
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6c7850c3b5bdd0800000000000000
+      internalID: -2470871181843207334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1979
+        width: 517
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515887e7b6b77ee0800000000000000
+      internalID: -1263340269474393767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1979
+        width: 362
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8567cfce0635d20800000000000000
+      internalID: 3266060725737904320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_10
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2063
+        width: 394
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599165dbbbf8db60800000000000000
+      internalID: 7771237941185190226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_11
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2127
+        width: 298
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c9c27bf93d3570800000000000000
+      internalID: 8447972228142319952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1335
+        width: 519
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a2a82950448e330800000000000000
+      internalID: 3740314281255250562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1335
+        width: 363
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c04e3329a795010800000000000000
+      internalID: 1178107545888492600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_14
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1428
+        width: 394
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc94cd633b797e60800000000000000
+      internalID: 7960529277169212625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_15
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1498
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417065c2960bc560800000000000000
+      internalID: 7334963645549408581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 658
+        width: 511
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a252602fa3d950800000000000000
+      internalID: 6472709643084931708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_17
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 658
+        width: 344
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ed34d3636819c0800000000000000
+      internalID: -3956302992231242182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_18
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 795
+        width: 394
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690600c109312dac0800000000000000
+      internalID: -3831978823272865642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AF materials-03-03_19
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 844
+        width: 511
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd2b3a3634aa9b70800000000000000
+      internalID: 8906611765890723269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

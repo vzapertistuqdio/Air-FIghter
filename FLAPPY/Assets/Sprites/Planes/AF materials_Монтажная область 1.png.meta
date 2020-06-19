@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 0c849dd348327de4895c553579b6d717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1076030614483872746
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_0"
+  - first:
+      213: -5951027315081811790
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_1"
+  - first:
+      213: -7450174846572555531
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_2"
+  - first:
+      213: 7093609911259505938
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_3"
+  - first:
+      213: 736867403540516594
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_4"
+  - first:
+      213: 2378920630036087427
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_5"
+  - first:
+      213: -307729772925371187
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_6"
+  - first:
+      213: -4932764830132259637
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_7"
+  - first:
+      213: -7594193831704775174
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_8"
+  - first:
+      213: -6961486920011015672
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_9"
+  - first:
+      213: -2206925383496368625
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_10"
+  - first:
+      213: 1855385265895523481
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_11"
+  - first:
+      213: -6637322601104390856
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_12"
+  - first:
+      213: -5644156849054064287
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_13"
+  - first:
+      213: -8282737260412956757
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_14"
+  - first:
+      213: -6676505578813558208
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_15"
+  - first:
+      213: -1851490190853826146
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_16"
+  - first:
+      213: 8421455148105276339
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_17"
+  - first:
+      213: 1201859716811567810
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_18"
+  - first:
+      213: -1815606917651711530
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_19"
+  - first:
+      213: 1130259243398336787
+    second: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+      \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_20"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_0"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 6650
+        width: 1671
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeba1cf8424deee00800000000000000
+      internalID: 1076030614483872746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_1"
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 6646
+        width: 1674
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e6e3df24b96da0800000000000000
+      internalID: -5951027315081811790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_2"
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 6890
+        width: 783
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21e732379ab9890800000000000000
+      internalID: -7450174846572555531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_3"
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 6782
+        width: 855
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21520d771a0917260800000000000000
+      internalID: 7093609911259505938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_4"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 5159
+        width: 1635
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec89adff0e93a00800000000000000
+      internalID: 736867403540516594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_5"
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 5223
+        width: 1635
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382462e75bf930120800000000000000
+      internalID: 2378920630036087427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_6"
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 5291
+        width: 795
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb8f5e669babbf0800000000000000
+      internalID: -307729772925371187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_7"
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 5155
+        width: 727
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43d6b958c4b8bb0800000000000000
+      internalID: -4932764830132259637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_8"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3688
+        width: 2090
+        height: 1119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af536c122f00c9690800000000000000
+      internalID: -7594193831704775174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_9"
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 3908
+        width: 2090
+        height: 899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1730a784d36f90800000000000000
+      internalID: -6961486920011015672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_10"
+      rect:
+        serializedVersion: 2
+        x: 5794
+        y: 3800
+        width: 1166
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef7e67e0d6f51e0800000000000000
+      internalID: -2206925383496368625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_11"
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 3686
+        width: 815
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994423fa117afb910800000000000000
+      internalID: 1855385265895523481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_12"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2293
+        width: 2294
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8354085a24e73e3a0800000000000000
+      internalID: -6637322601104390856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_13"
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 3268
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616b83ff3deba1b0800000000000000
+      internalID: -5644156849054064287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_14"
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2492
+        width: 2294
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf8131785ecd0d80800000000000000
+      internalID: -8282737260412956757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_15"
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 2293
+        width: 1127
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04277e9bc894853a0800000000000000
+      internalID: -6676505578813558208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_16"
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 2349
+        width: 974
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9999052b7f2e46e0800000000000000
+      internalID: -1851490190853826146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_17"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1042
+        width: 2889
+        height: 1055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb13b2a6d40fd470800000000000000
+      internalID: 8421455148105276339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_18"
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1070
+        width: 2786
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2b7627b0ddda010800000000000000
+      internalID: 1201859716811567810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_19"
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 1042
+        width: 1015
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b0adb02badc6e0800000000000000
+      internalID: -1815606917651711530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "AF materials_\u041C\u043E\u043D\u0442\u0430\u0436\u043D\u0430\u044F
+        \u043E\u0431\u043B\u0430\u0441\u0442\u044C 1_20"
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 1101
+        width: 682
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3111cd22bcc7faf00800000000000000
+      internalID: 1130259243398336787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
