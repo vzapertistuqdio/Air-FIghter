@@ -5,9 +5,6 @@ using UnityEngine.UI;
 
 public class PlaneMode : MonoBehaviour,IShopMode
 {
-    //private Player player;
-    //[SerializeField] private GameObject playerObj;
-
     private GameObject plane;
 
     private bool IsNulled = false;
@@ -33,7 +30,7 @@ public class PlaneMode : MonoBehaviour,IShopMode
         return ArraySize;
     }
 
-    public int GetShowItemCost(int id)  //Получает цену отображаемого предмета
+    public int GetShowItemCost(int id)  
     {
         int cost = Shop.GetInstance().GetPlane(id).Cost;
         return cost;
@@ -45,24 +42,11 @@ public class PlaneMode : MonoBehaviour,IShopMode
        PlayerPrefs.SetInt("CurrentPlane", Shop.GetInstance().GetPlane(collectionID).ID);      
     }
 
-    public int GetShowItem(int id)  //Получает цену отображаемого предмета TODOOOO
+    public int GetShowItem(int id)  
     {
-        int plane = Shop.GetInstance().GetPlane(id).ID;
-        return plane;
+        int planeCost = Shop.GetInstance().GetPlane(id).ID;
+        return planeCost;
     }
-
-
-    private void Start()
-    {
-        //player = Player.GetInstance();
-       // Debug.Log(player);
-    }
-    private void Update()
-    {
-
-    }
-
-    
 
     private void SetToStartArray()
     {
@@ -77,10 +61,6 @@ public class PlaneMode : MonoBehaviour,IShopMode
     {
         return Shop.GetInstance().GetSizeCollection("PlanesCollection");
     }
-
-  
-
-    
 
     public void DisplayParameters(int id, Text text)
     {

@@ -64,7 +64,6 @@ public class OtherMode : MonoBehaviour,IShopMode
     }
     public void OnEquipClick(int collectionID)
     {
-
     }
 
     public void DestroyDisplayedItem()

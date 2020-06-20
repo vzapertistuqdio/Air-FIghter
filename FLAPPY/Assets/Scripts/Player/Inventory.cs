@@ -7,7 +7,6 @@ public class Inventory : MonoBehaviour
     private static Inventory _inventory = new Inventory();
 
     private List<int> BoughtedItemID = new List<int>();
-
     private Inventory() { }
 
     public static Inventory GetInstance()
@@ -37,26 +36,18 @@ public class Inventory : MonoBehaviour
         foreach (int id in BoughtedItemID)
         {
             SavedInDatabase(id);
-        }
-       
-
+        }   
     }
     public void Load()
     {
         LoadInventory();
         
     }
-
     private void Start()
     {
         _inventory = GetComponent<Inventory>();
         Load();
       
-    }
-    private void Update()
-    {
-   
-        
     }
 
     private void SavedInDatabase(int id)

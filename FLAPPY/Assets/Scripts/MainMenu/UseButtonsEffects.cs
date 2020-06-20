@@ -9,11 +9,9 @@ public class UseButtonsEffects : MonoBehaviour
     private AudioSource audioSrc;
 
     private float TIME_ANIM_STOP = 0.2f;
-
-    void Start()
+    private void Start()
     {
         anim = GetComponent<Animator>();
-
         audioSrc = GetComponent<AudioSource>();
     }
     

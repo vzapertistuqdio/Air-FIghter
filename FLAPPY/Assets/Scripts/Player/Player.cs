@@ -8,8 +8,6 @@ public class Player : MonoBehaviour
 
     private Inventory _inventroy = Inventory.GetInstance();
 
-    private Guns currentGun;
-
     private Planes currentPlane;
 
     private Pilots currentPilot;
@@ -23,11 +21,6 @@ public class Player : MonoBehaviour
     public static Player GetInstance()
     {
         return _player;
-    }
-
-    public void SetGun(Guns gun)
-    {
-        currentGun = gun;
     }
 
     public void SetPilot(Pilots pilot)
@@ -61,14 +54,6 @@ public class Player : MonoBehaviour
         money = PlayerPrefs.GetInt("Money");
     }
 
-    public void PerformUseGun()
-    {
-        currentGun.UseGun();
-    }
-    public void Awake()
-    {
-    }
-
     private void  Start()
     {
         _player = GetComponent<Player>();
@@ -80,7 +65,6 @@ public class Player : MonoBehaviour
         SetPilot(Shop.GetInstance().GetEquipPilot());
         SetPlane(Shop.GetInstance().GetEquipPlane());
         hasReincarnation = Shop.GetInstance().HasReincarnation();
-
     }
    
 

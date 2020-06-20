@@ -10,9 +10,7 @@ public abstract class Planes : MonoBehaviour
     public string Name{ get; protected set; }
     public int ID { get; protected set; }
     public int Cost { get; protected set; }
-
     public float ReloadTime { get; protected set; }
-
 
     [SerializeField] public GameObject planeObject;
     [SerializeField] public GameObject bulletObject;
@@ -46,8 +44,6 @@ public abstract class Planes : MonoBehaviour
             StartCoroutine(StartReload(ReloadTime));
         }
     }
- 
-
     public virtual GameObject GetObject()
     {
         return planeObject;

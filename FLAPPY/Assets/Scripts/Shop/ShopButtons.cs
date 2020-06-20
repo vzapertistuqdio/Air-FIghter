@@ -60,16 +60,10 @@ public class ShopButtons : MonoBehaviour
     {
         if (player.GetMoney() >= shop.GetShowItemCost())
         {
-          
                 inventory.Add(shop.GetShowItemID(GetCurrentShowId()));
-
                 inventory.Save();
-
                 int itemCost = shop.GetShowItemCost();
-
                 player.SetMoney(player.GetMoney() - itemCost);
-            
-
         }
     }
 
@@ -132,7 +126,7 @@ public class ShopButtons : MonoBehaviour
         return Shop.GetInstance().GetShopModeSize() - 1;
     }
 
-    private IEnumerator DisplayButton(GameObject btn,bool value) //Что анимация и звук проигрываться успевал
+    private IEnumerator DisplayButton(GameObject btn,bool value) 
     {
         yield return new WaitForSeconds(0.2f);
         btn.SetActive(value);

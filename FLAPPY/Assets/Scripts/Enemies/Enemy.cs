@@ -35,7 +35,6 @@ public class Enemy : MonoBehaviour,IDamagable
         }
     }
 
-    
     private void Start()
     {
         rgb = GetComponent<Rigidbody2D>();
@@ -53,9 +52,6 @@ public class Enemy : MonoBehaviour,IDamagable
         InvokeRepeating("PreferMove", 1, 1);
     }
 
-    private void Update()
-    {
-    }
     private void OnEnemyDeath()
     {
         particleSystems[0].Play();

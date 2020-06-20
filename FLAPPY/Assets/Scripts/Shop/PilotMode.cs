@@ -15,8 +15,7 @@ public class PilotMode : MonoBehaviour,IShopMode
  
 
     public void Display(int id)
-    {
-       
+    {  
         SetToStartArray();
         ArraySize = GetArraySizeForThis();
         GameObject displayItem = GameObject.FindWithTag("DisplayItem");
@@ -28,7 +27,6 @@ public class PilotMode : MonoBehaviour,IShopMode
        pilot.transform.position = displayItem.transform.position;
 
     }
-
      public int GetArraySize()
     {
         return ArraySize;
@@ -38,14 +36,12 @@ public class PilotMode : MonoBehaviour,IShopMode
     {
         text.text = "НАЗВАНИЕ: " + Shop.GetInstance().GetPilot(id).Name + "\nУДАЧА: " + Shop.GetInstance().GetPilot(id).Luck + "\nСТОИМОСТЬ: " + Shop.GetInstance().GetPilot(id).Cost;
     }
-
-    public int GetShowItemCost(int id)  //Получает цену отображаемого предмета
+    public int GetShowItemCost(int id)
     {
        int cost= Shop.GetInstance().GetPilot(id).Cost;
         return cost;
-    }
-    
-    public int GetShowItem(int id)  //Получает цену отображаемого предмета TODOOOO
+    }   
+    public int GetShowItem(int id)  
     {
         int pilot = Shop.GetInstance().GetPilot(id).ID;
         return pilot;
@@ -70,10 +66,6 @@ public class PilotMode : MonoBehaviour,IShopMode
             IsNulled = true;
         }
     }
-
-
-  
-
     public void DestroyDisplayedItem()
     {
         Destroy(pilot);

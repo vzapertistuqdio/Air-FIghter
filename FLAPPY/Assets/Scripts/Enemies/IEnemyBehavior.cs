@@ -5,6 +5,6 @@ using UnityEngine;
 public interface IEnemyBehavior 
 {
     float FireRate { get; set; }
-    void Shoot(GameObject bulletObj,Transform enemyTransfor/*, Transform playerTransform*/);
+    void Shoot(GameObject bulletObj,Transform enemyTransfor);
     void Move(Rigidbody2D rgb);
 }

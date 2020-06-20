@@ -12,7 +12,6 @@ public class Pilots :MonoBehaviour
 
     [SerializeField] public GameObject pilotObject;
 
- 
     public enum BodyParts { Head,Scarf,Body};
 
 
@@ -27,9 +26,6 @@ public class Pilots :MonoBehaviour
     {
         Destroy(pilotObject);
     }
-
-
-
     public virtual GameObject GetObject()
     {
         return pilotObject;

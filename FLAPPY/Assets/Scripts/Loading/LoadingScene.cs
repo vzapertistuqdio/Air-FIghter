@@ -5,11 +5,9 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class LoadingScene : MonoBehaviour
-{
-    
+{  
     public GameObject loadObject;
     
-
      public void LoadScene(int sceneIndex)
     {
         StartCoroutine(LoadAsync(sceneIndex));
@@ -23,6 +21,5 @@ public class LoadingScene : MonoBehaviour
         {        
             yield return null;
         }
-
     }
 }

@@ -28,7 +28,7 @@ public class Settings : MonoBehaviour
 
     private bool isMusicEnabled;
 
-    void Start()
+    private void Start()
     {
         settingsMenu.SetActive(false);
         mainMenuMusic=mainCamera.GetComponent<AudioSource>();
@@ -43,16 +43,12 @@ public class Settings : MonoBehaviour
     }
     public void OnApplyClick()
     {
-        // Реализовать сохранение настроек
-        StartCoroutine(WaitEndAnimation());
-        
+        StartCoroutine(WaitEndAnimation());        
     }
     public void OnCloseClick()
     {
         StartCoroutine(WaitEndAnimation());
     }
-
-   
     public void OnMusicToggleClick()
     {
        bool isOn=musicToggle.GetComponent<Toggle>().isOn;
@@ -66,7 +62,6 @@ public class Settings : MonoBehaviour
             mainMenuMusic.enabled = false;
             PlayerPrefs.SetInt("Music", 0);
         }
-
 
     }
     public void OnSoundToggleClick()
@@ -92,7 +87,6 @@ public class Settings : MonoBehaviour
         }
       
     }
-
     public void OnSLiderChange()
     {
       AudioSource[] allAuidio= GameObject.FindObjectsOfType<AudioSource>();
@@ -102,7 +96,6 @@ public class Settings : MonoBehaviour
             PlayerPrefs.SetFloat("Volume", src.volume);
         }
     }
-
     private IEnumerator WaitEndAnimation()
     {
         yield return new WaitForSeconds(TIME_END_ANIM);

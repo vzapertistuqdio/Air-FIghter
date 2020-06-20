@@ -14,14 +14,11 @@ public class Rocket : Obstacle
         health = 1;
         behavior = new RochetBehavior();
     }
-
-    void Start()
+    private void Start()
     {
         rocketRigibody = GetComponent<Rigidbody2D>();
-    }
-
-   
-    void Update()
+    } 
+    private void Update()
     {
         Move(rocketRigibody,speed);
         Destroy(destroiableTime);

@@ -90,12 +90,12 @@ public class Shop : MonoBehaviour
     public int GetShopModeSize()
     {
         return shopMode.GetArraySize();
-    }  //Возвращает размер коллекции отображаемых предметов,для текущего шопмода
+    } 
 
     public void SetShopMode(IShopMode mode)
     {
         shopMode = mode;    
-    } //Устанавливает режм отображения предметов(пилоты,самолёт и т.д)
+    } 
 
     public IShopMode GetShopMode()
     {
@@ -108,7 +108,7 @@ public class Shop : MonoBehaviour
         return cost;
     }
 
-    public int GetShowItemID(int id)  //Возвращает айди отображаемого предмета текущего шопмода
+    public int GetShowItemID(int id)  
     {
        return shopMode.GetShowItem(id);
     }
@@ -130,7 +130,7 @@ public class Shop : MonoBehaviour
         }
         return temp;
     }
-    public Pilots GetEquipPilot () // Нужно для сохранеия выбора после рестарта
+    public Pilots GetEquipPilot () 
     {
        Pilots temp = null;
         foreach (Pilots pilot in PilotsCollection)
@@ -155,9 +155,6 @@ public class Shop : MonoBehaviour
         }
         return false;
     }
-
-
-
     public void DestroyDisplayItem()
     {
         shopMode.DestroyDisplayedItem();
@@ -173,9 +170,6 @@ public class Shop : MonoBehaviour
         _shop = GetComponent<Shop>();
         InitializeShop();
         shopMode = new PlaneMode();
-        PlayerPrefs.SetInt("Money",910924);
-   
-        
     }
 
     private void Update()
